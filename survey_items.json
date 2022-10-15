@@ -1,0 +1,314 @@
+[
+    {
+        "item_id": 0,
+        "factor_id": 0,
+        "keyed": 0,
+        "content": "I do not understand why the results are ordered the way they are and would not be able to recreate the orderings myself."
+    },
+    {
+        "item_id": 1,
+        "factor_id": 0,
+        "keyed": 1,
+        "content": "I understand why the results are ordered the way they are and would be able to recreate the orderings myself."
+    },
+    {
+        "item_id": 2,
+        "factor_id": 1,
+        "keyed": 0,
+        "content": "It's difficult for me to break down each of the search engine's components and understand why the results are ordered the way they are."
+    },
+    {
+        "item_id": 3,
+        "factor_id": 1,
+        "keyed": 1,
+        "content": "It's easy for me to break down each of the search engine's components and understand why the results are ordered the way they are."
+    },
+    {
+        "item_id": 4,
+        "factor_id": 2,
+        "keyed": 0,
+        "content": "I'm unable to follow how the search engine ordered the results."
+    },
+    {
+        "item_id": 5,
+        "factor_id": 2,
+        "keyed": 1,
+        "content": "I'm able to follow how the search engine ordered the results."
+    },
+    {
+        "item_id": 6,
+        "factor_id": 3,
+        "keyed": 0,
+        "content": "I think I need more information to understand why the given query produced the displayed results."
+    },
+    {
+        "item_id": 7,
+        "factor_id": 3,
+        "keyed": 1,
+        "content": "It's clear to me why the given query produced the displayed results."
+    },
+    {
+        "item_id": 8,
+        "factor_id": 4,
+        "keyed": 0,
+        "content": "I do not know how confident the search engine is that its displayed orderings are correct."
+    },
+    {
+        "item_id": 9,
+        "factor_id": 4,
+        "keyed": 1,
+        "content": "I understand how confident the search engine is that its displayed orderings are correct."
+    },
+    {
+        "item_id": 10,
+        "factor_id": 5,
+        "keyed": 0,
+        "content": "Following a query modification, I think changes to the result ordering should be displayed faster in order to satisfy my search needs."
+    },
+    {
+        "item_id": 11,
+        "factor_id": 5,
+        "keyed": 1,
+        "content": "Following a query modification, I believe changes to the result ordering would be displayed quickly enough to satisfy my search needs."
+    },
+    {
+        "item_id": 12,
+        "factor_id": 6,
+        "keyed": 0,
+        "content": "I am unable to see and understand how changes in the query affect the result ordering."
+    },
+    {
+        "item_id": 13,
+        "factor_id": 6,
+        "keyed": 1,
+        "content": "I am able to see and understand how changes in the query affect the result ordering."
+    },
+    {
+        "item_id": 14,
+        "factor_id": 7,
+        "keyed": 0,
+        "content": "This system would not work well in a different search task (i.e. looking up medical papers to diagnose a patient)."
+    },
+    {
+        "item_id": 15,
+        "factor_id": 7,
+        "keyed": 1,
+        "content": "This system would work well in a different search task (i.e. looking up medical papers to diagnose a patient)."
+    },
+    {
+        "item_id": 16,
+        "factor_id": 8,
+        "keyed": 0,
+        "content": "This interface does not help me assess whether the search engine ordered the results fairly and ethically."
+    },
+    {
+        "item_id": 17,
+        "factor_id": 8,
+        "keyed": 1,
+        "content": "This interface helps me assess whether the search engine ordered the results fairly and ethically."
+    },
+    {
+        "item_id": 18,
+        "factor_id": 9,
+        "keyed": 0,
+        "content": "I found it difficult to understand the contents of the results page."
+    },
+    {
+        "item_id": 19,
+        "factor_id": 9,
+        "keyed": 1,
+        "content": "I can easily understand the contents of the results page."
+    },
+    {
+        "item_id": 20,
+        "factor_id": 10,
+        "keyed": 0,
+        "content": "The results page does not provide me with enough information to find the answers I am looking for."
+    },
+    {
+        "item_id": 21,
+        "factor_id": 10,
+        "keyed": 1,
+        "content": "The results page provides me enough information to find the answers I am looking for effectively."
+    },
+    {
+        "item_id": 22,
+        "factor_id": 11,
+        "keyed": 0,
+        "content": "I do not understand the document properties that cause some results to be ordered higher than others."
+    },
+    {
+        "item_id": 23,
+        "factor_id": 11,
+        "keyed": 1,
+        "content": "I understand the document properties that cause some results to be ordered higher than others."
+    },
+    {
+        "item_id": 24,
+        "factor_id": 12,
+        "keyed": 0,
+        "content": "I do not understand why each result is ordered in a certain place."
+    },
+    {
+        "item_id": 25,
+        "factor_id": 12,
+        "keyed": 1,
+        "content": "I understand why each result is ordered in a certain place."
+    },
+    {
+        "item_id": 26,
+        "factor_id": 13,
+        "keyed": 0,
+        "content": "If I change the query, I do not know how it will affect the result ordering."
+    },
+    {
+        "item_id": 27,
+        "factor_id": 13,
+        "keyed": 1,
+        "content": "If I change the query, I know how it will affect the result ordering."
+    },
+    {
+        "item_id": 28,
+        "factor_id": 14,
+        "keyed": 0,
+        "content": "It takes me longer than I would like for me to understand how to use the result interface."
+    },
+    {
+        "item_id": 29,
+        "factor_id": 14,
+        "keyed": 1,
+        "content": "It does not take me long to understand how to use the result interface."
+    },
+    {
+        "item_id": 30,
+        "factor_id": 15,
+        "keyed": 0,
+        "content": "I am unable to identify query types that might fail to produce the results I am searching for."
+    },
+    {
+        "item_id": 31,
+        "factor_id": 15,
+        "keyed": 1,
+        "content": "I am able to identify query types that might fail to produce the results I am searching for."
+    },
+    {
+        "item_id": 32,
+        "factor_id": 16,
+        "keyed": 0,
+        "content": "I think the result interface needs to be organized better in order for me to understand the orderings."
+    },
+    {
+        "item_id": 33,
+        "factor_id": 16,
+        "keyed": 1,
+        "content": "The way the information in the result interface is organized helps me understand the orderings."
+    },
+    {
+        "item_id": 34,
+        "factor_id": 17,
+        "keyed": 0,
+        "content": "The format and amount of information provided in the result interface is not enough to help me understand why the results are ordered the way they are."
+    },
+    {
+        "item_id": 35,
+        "factor_id": 17,
+        "keyed": 1,
+        "content": "The format and amount of information provided in the result interface is enough to help me understand why the results are ordered the way they are."
+    },
+    {
+        "item_id": 36,
+        "factor_id": 18,
+        "keyed": 0,
+        "content": "I would not use this search engine in my everyday life."
+    },
+    {
+        "item_id": 37,
+        "factor_id": 18,
+        "keyed": 1,
+        "content": "I would use this search engine in my everyday life."
+    },
+    {
+        "item_id": 38,
+        "factor_id": 19,
+        "keyed": 0,
+        "content": "The result interface does not help me understand the true decision making process of the search engine ranker."
+    },
+    {
+        "item_id": 39,
+        "factor_id": 19,
+        "keyed": 1,
+        "content": "The result interface helps me understand the true decision making process of the search engine ranker."
+    },
+    {
+        "item_id": 40,
+        "factor_id": 20,
+        "keyed": 0,
+        "content": "Based on the presentation of the results, I do not believe the results are ordered correctly."
+    },
+    {
+        "item_id": 41,
+        "factor_id": 20,
+        "keyed": 1,
+        "content": "The presentation of the results leads me to believe the results are ordered correctly."
+    },
+    {
+        "item_id": 42,
+        "factor_id": 21,
+        "keyed": 0,
+        "content": "The result interface does not accurately reflect the search engine orderings."
+    },
+    {
+        "item_id": 43,
+        "factor_id": 21,
+        "keyed": 1,
+        "content": "The result interface accurately reflects the search engine orderings."
+    },
+    {
+        "item_id": 44,
+        "factor_id": 22,
+        "keyed": 0,
+        "content": "I think the result interface needs to provide more information for me to understand how the search engine is ordering the results."
+    },
+    {
+        "item_id": 45,
+        "factor_id": 22,
+        "keyed": 1,
+        "content": "The result interface provides enough information for me to understand how the search engine is ordering these results."
+    },
+    {
+        "item_id": 46,
+        "factor_id": 23,
+        "keyed": 0,
+        "content": "I do not trust that the results are ordered correctly and that the system will correctly order results for other queries."
+    },
+    {
+        "item_id": 47,
+        "factor_id": 23,
+        "keyed": 1,
+        "content": "I trust that the results are ordered correctly and system will order results correctly for other queries."
+    },
+    {
+        "item_id": 48,
+        "factor_id": 24,
+        "keyed": 0,
+        "content": "The results did not match my expectations and I disagree with them."
+    },
+    {
+        "item_id": 49,
+        "factor_id": 24,
+        "keyed": 1,
+        "content": "The results match my expectations and I agree with them."
+    },
+    {
+        "item_id": 50,
+        "factor_id": 25,
+        "keyed": 0,
+        "content": "I think some users may have difficultly using this system."
+    },
+    {
+        "item_id": 51,
+        "factor_id": 25,
+        "keyed": 1,
+        "content": "This system is usable and consumable by all users regardless of their cultural background and physical abilities."
+    }
+]
